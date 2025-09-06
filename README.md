@@ -1,3 +1,10 @@
+
+<img width="1779" height="1051" alt="zzzzz" src="https://github.com/user-attachments/assets/0b78cc47-6395-4dfa-b2d9-518b7bba640d" />
+
+
+
+
+
 Moki vs. Avocados
 
 Bruh this aint no boring ass tech demo.
