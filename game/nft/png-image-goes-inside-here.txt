@@ -1,0 +1,1 @@
+I used a 1024x291 pixels (3x8 sprite sheet). You must use your own Sprite.
