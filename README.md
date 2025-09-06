@@ -23,7 +23,7 @@ A / D -> Move
 
 Space -> Jump / Double Jump
 
-T -> Toggle off on for inifinite knies or recharge throwing
+T -> Toggle off on for inifinite knives or recharge throwing
 
 B / V -> Backflip / Frontflip (air only)
 
